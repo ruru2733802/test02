@@ -1,4 +1,7 @@
 requirements.txt
+streamlit
+yfinance
+pandas
 # ==========================================
 # 1. 系統環境設定 (處理 Matplotlib 中文亂碼問題)
 # ==========================================
@@ -87,4 +90,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
