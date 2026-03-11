@@ -1,8 +1,4 @@
-import yfinance as yf
-import matplotlib.pyplot as plt
-from datetime import datetime
-import platform
-
+requirements.txt
 # ==========================================
 # 1. 系統環境設定 (處理 Matplotlib 中文亂碼問題)
 # ==========================================
@@ -91,3 +87,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
